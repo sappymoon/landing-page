@@ -96,3 +96,9 @@ button {
     gap: 16px;
     font-size: 18px;
 }
+
+.test-text {
+    display: flex;
+    justify-content: center;
+ }
+ 
