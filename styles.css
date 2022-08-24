@@ -1,6 +1,7 @@
 html {
     background-image: url(background.jpg);
     background-size: cover;
+    background-attachment: fixed;
     font: Garamond;
 }
 
@@ -44,18 +45,16 @@ ul {
     border-radius: 1.5em;
     gap: 50px;
     flex-wrap: wrap;
+    margin: 100px;
 }
 
-.hero-left {
+.left {
     display: flex;
     flex-direction: column;
     gap: 8px;
     align-items: center;
-    min-width: 1px;
-}
-
-.hero-right{
-    display: flex;
+    justify-content: center;
+    text-align: center;
 }
 
 img.hewg {
@@ -64,17 +63,15 @@ img.hewg {
     min-width: 400px;
 }
 
-.hero-title{
+.title{
     font-size: 32px;
     font-weight: bold;
-    text-align: center;
 }
 
 button {
     max-width: 100px;
     background-color: #0B292B;
     color: #BCA17D;
-    font: Garamond;
     border-radius: 15%;
     border-color: #BCA17D;
 }
@@ -97,8 +94,48 @@ button {
     font-size: 18px;
 }
 
+.testimonial-group {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
 .test-text {
     display: flex;
     justify-content: center;
  }
  
+
+ .quote {
+    text-align: center;
+    font-size: 48px;
+    max-width: 70%;
+    margin: 100px;
+}
+
+.bottom-banner {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    background-color: #BCA17D;
+    color: #0B292B;
+    width: 50%;
+    gap: 100px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.footer {
+    display: flex;
+    background-color: #0B292B;
+    padding: 20px;
+    width: 100vw;
+    justify-content: center;
+}
+
+body {
+    margin: 0;
+}
