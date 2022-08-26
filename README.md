@@ -6,6 +6,8 @@ background credits: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjFvjW
 
 elden beast: https://static.wikia.nocookie.net/eldenring/images/2/2a/Elden-beast-boss-elden-ring-wiki-guide.jpg/revision/latest?cb=20220302171816
 
+bull goat: https://www.rockpapershotgun.com/elden-ring-best-armor
+
 other pictures: me
 
 for future me: if you get object file is empty/loose object corrupt, do this:
