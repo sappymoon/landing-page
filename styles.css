@@ -2,7 +2,6 @@ html {
     background-image: url(background.jpg);
     background-size: cover;
     background-attachment: fixed;
-    font: Garamond;
 }
 
 .background {
@@ -68,11 +67,13 @@ ul {
 img.hewg {
     width: 30vw;
     height: auto;
-    min-width: 400px;
+    min-width: 300px;
+    max-width: 500px;
+    border-radius: 1.5em;
 }
 
 .title{
-    font-size: 32px;
+    font-size: 36px;
     font-weight: bold;
     padding-bottom: 16px;
 }
@@ -80,6 +81,7 @@ img.hewg {
 .text {
     max-width: 250px;
     padding-bottom: 8px;
+    font-size: 18px;
 }
 
 button {
@@ -118,17 +120,20 @@ button {
 
 .test-title {
     font-weight: bold;
+    font-size: 40px;
 }
 
 .test-text {
     text-align: center;
     font-style: italic;
     max-width: 250px;
+    font-size: 18px;
  }
 
  .test-pic {
     height: auto;
     max-width: 300px;
+    border-radius: 1.5em;
 }
  
 
