@@ -25,6 +25,14 @@ html {
     flex-wrap: wrap;
 }
 
+.name {
+    padding-left: 16px;
+}
+
+.links {
+    padding-right: 16px;
+}
+
 img {
     flex-shrink: 0;
 }
@@ -66,6 +74,12 @@ img.hewg {
 .title{
     font-size: 32px;
     font-weight: bold;
+    padding-bottom: 16px;
+}
+
+.text {
+    max-width: 250px;
+    padding-bottom: 8px;
 }
 
 button {
@@ -89,21 +103,33 @@ button {
 
 .testimonials-sub {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    gap: 16px;
+    gap: 32px;
     font-size: 18px;
 }
 
 .testimonial-group {
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 20px;
 }
 
+.test-title {
+    font-weight: bold;
+}
+
 .test-text {
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    font-style: italic;
+    max-width: 250px;
  }
+
+ .test-pic {
+    height: auto;
+    max-width: 300px;
+}
  
 
  .quote {
@@ -116,10 +142,12 @@ button {
 .bottom-banner {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     padding: 40px;
     background-color: #BCA17D;
     color: #0B292B;
-    width: 50%;
+    width: 40%;
+    max-width: 600px;
     gap: 100px;
 }
 
@@ -137,5 +165,6 @@ button {
 }
 
 body {
-    margin: 0;
+    margin: 0px;
+    overflow-x: hidden;
 }

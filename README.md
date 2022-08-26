@@ -2,9 +2,11 @@
 
 this is my first landing page design
 
-https://eldenring.wiki.fextralife.com/file/Elden-Ring/blacksmith_hewg_elden_ring_wiki_guide_300px.jpg
+background credits: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjFvjWXv7nVUtlnf9TOhsUQ4mMmSKMAFDRZA&usqp=CAU
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjFvjWXv7nVUtlnf9TOhsUQ4mMmSKMAFDRZA&usqp=CAU
+elden beast: https://static.wikia.nocookie.net/eldenring/images/2/2a/Elden-beast-boss-elden-ring-wiki-guide.jpg/revision/latest?cb=20220302171816
+
+other pictures: me
 
 for future me: if you get object file is empty/loose object corrupt, do this:
 
